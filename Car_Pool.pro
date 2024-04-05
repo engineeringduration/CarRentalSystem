@@ -29,28 +29,7 @@ SOURCES += main.cpp\
     clickableLabel.cpp \
     updateProfile.cpp \
     MainScreen.cpp \
-    findRidePage.cpp \
-    reserveCar.cpp \
-    createRide.cpp \
-    adminstrator.cpp
 
-HEADERS  += log_in.h \
-    Sign_In.h \
-    clickableLabel.h \
-    updateProfile.h \
-    findRidePage.h \
-    mainScreen.h \
-    reserveCar.h \
-    createRide.h \
-    adminstrator.h
-
-FORMS    += log_in.ui \
-    Sign_In.ui \
-    mainScreen.ui \
-    updateProfile.ui \
-    findRidePage.ui \
-    reserveCar.ui \
-    createRide.ui \
     adminstrator.ui
 
 RESOURCES += \
